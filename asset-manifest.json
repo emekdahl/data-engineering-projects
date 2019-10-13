@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/data-engineering-projects/static/css/main.b100e6da.chunk.css",
+    "main.js": "/data-engineering-projects/static/js/main.ef7952f6.chunk.js",
+    "main.js.map": "/data-engineering-projects/static/js/main.ef7952f6.chunk.js.map",
+    "runtime-main.js": "/data-engineering-projects/static/js/runtime-main.5499f12a.js",
+    "runtime-main.js.map": "/data-engineering-projects/static/js/runtime-main.5499f12a.js.map",
+    "static/js/2.1d95a5c5.chunk.js": "/data-engineering-projects/static/js/2.1d95a5c5.chunk.js",
+    "static/js/2.1d95a5c5.chunk.js.map": "/data-engineering-projects/static/js/2.1d95a5c5.chunk.js.map",
+    "index.html": "/data-engineering-projects/index.html",
+    "precache-manifest.96ccce2d0d1813b4ca30e94cf449de1b.js": "/data-engineering-projects/precache-manifest.96ccce2d0d1813b4ca30e94cf449de1b.js",
+    "service-worker.js": "/data-engineering-projects/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/data-engineering-projects/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5499f12a.js",
+    "static/js/2.1d95a5c5.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.ef7952f6.chunk.js"
+  ]
+}
