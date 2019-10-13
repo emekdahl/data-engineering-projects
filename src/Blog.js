@@ -241,7 +241,7 @@ export default function Blog() {
                   Skills
                 </Typography>
                 <Typography>
-                SQL, Java, Python, Git, Bash, JavaScript, Kubernetes, AWS
+                SQL, ElasticSearch, AWS RDS, Java, Python, Git, Bash, Codefresh, JavaScript, Docker, Kubernetes
                 </Typography>
               </Paper>
               {/* <Typography variant="h6" gutterBottom className={classes.sidebarSection}>
